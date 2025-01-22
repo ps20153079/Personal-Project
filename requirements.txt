@@ -1,0 +1,8 @@
+alpaca-py
+lumibot
+matplotlib
+numpy
+pandas
+quantstats
+requests
+yfinance
